@@ -1,17 +1,7 @@
----
-
-title: ROTAIA
-emoji: 🚚
-colorFrom: blue
-colorTo: blue
-sdk: streamlit
-app_file: app.py
-pinned: false
----
 
 https://github.com/user-attachments/assets/5e836050-e9a6-4b5a-a1d3-e653f28d6ee3
 
-# rotaIA 🚚
+# [rotaIA](https://hugogr99-roteirizador.hf.space/) 🚚
 
 O **rotaIA** nasceu como o produto final do meu Trabalho de Conclusão de Curso (TCC) no MBA em Data Science e Analytics da ESALQ-USP. Durante as minhas pesquisas, percebi que os modelos puros de Machine Learning sofriam muito com problemas de convergência computacional quando o volume de entregas subia demais. Para resolver esse gargalo, desenvolvi um modelo híbrido e, a partir dessa inteligência, criei esta aplicação para resolver o clássico Travelling Salesman Problem (Problema do Caixeiro Viajante) de forma visual e prática.
 
