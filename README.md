@@ -1,11 +1,3 @@
-
-
-
-https://github.com/user-attachments/assets/5e836050-e9a6-4b5a-a1d3-e653f28d6ee3
-
-
-
-
 ---
 
 title: ROTAIA
@@ -16,6 +8,8 @@ sdk: streamlit
 app_file: app.py
 pinned: false
 ---
+
+https://github.com/user-attachments/assets/5e836050-e9a6-4b5a-a1d3-e653f28d6ee3
 
 # rotaIA 🚚
 
